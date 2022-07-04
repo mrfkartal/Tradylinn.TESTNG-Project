@@ -1,0 +1,18 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="smoketest" >
+    <test name="classlar">
+        <classes>
+
+            <class name="tests.us_001_002Test.TC_101"></class>
+            <class name="tests.us_001_002Test.TC_102"></class>
+            <class name="tests.us_001_002Test.TC_103"></class>
+            <class name="tests.us_001_002Test.TC_104Positive"></class>
+            <class name="tests.us_001_002Test.TC_105Negative"></class>
+            <class name="tests.us_001_002Test.TC_201"></class>
+            <class name="tests.us_001_002Test.TC_202"></class>
+            <class name="tests.us_001_002Test.TC_203"></class>
+
+
+        </classes>
+    </test>
+</suite>
